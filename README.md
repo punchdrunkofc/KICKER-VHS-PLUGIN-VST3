@@ -1,3 +1,4 @@
+<img width="530" height="410" alt="2026-10-20_043255" src="https://github.com/user-attachments/assets/1f78a195-7329-42ae-85a1-301c4c3d461c" />
 # KICKER VHS 
 
 **KICKER VHS** is a free VST3 distortion plugin designed specifically for processing **Hardcore, Gabber, and Hardstyle kicks**. 
