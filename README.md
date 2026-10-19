@@ -1,5 +1,8 @@
 <img width="620" height="453" alt="2026-10-20_043438" src="https://github.com/user-attachments/assets/d8d44843-c87e-4cca-9ea5-34b6306ca9ab" />
 
+# MADE BY PUNCHDRUNK 
+[YouTube: @PUNCHDRUNKwav](https://www.youtube.com/@PUNCHDRUNKwav/featured)
+
 # KICKER VHS 
 
 **KICKER VHS** is a free VST3 distortion plugin designed specifically for processing **Hardcore, Gabber, and Hardstyle kicks**. 
